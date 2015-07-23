@@ -20,7 +20,7 @@ Instructions
 
     Load the R script using source("run_analysis.txt")
 
-    Run the R script using run_analysis() and after execution of the function has finished, you will see that merged_tidy_data.txt and calculated_tidy_data.txt would have been replaced with the newest outputs.
+    Run the R script using run_analysis() and after execution of the function has finished, you will see that merged_tidy_data.txt and final_tidy_data_set.txt would have been replaced with the newest outputs.
 
 Dependencies
 
